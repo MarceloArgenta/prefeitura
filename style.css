@@ -1,0 +1,111 @@
+/* #54bfed azul fraco */
+/* #3a5aa5 azul forte */
+
+
+header {
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    border-bottom: solid black 0.5px;
+    
+    margin: 0px 0px;
+   
+    
+}
+
+ 
+body {
+    height: 1000px;
+    background-image: url("./bandeiraPP.jpg");
+    background-repeat: no-repeat;
+    background-position: top center;
+    margin-top: 0px;
+    
+   
+    
+}
+.nav_left {
+    margin-top: 0px;
+    
+}
+
+.nav_left a:hover{
+    font-weight: bold;
+    color: white;
+}
+
+.nav_left a {
+    text-decoration: none;
+    color: black;
+    box-sizing: border-box;
+    display: inline-block;
+    height: 0px;
+}
+
+.nav_left li:hover{
+    background-color: #3a5aa5;
+   
+}
+.nav_left li{
+    list-style: none;
+    border: solid black 1px;
+    padding-left: 1px;
+    text-align: center;
+    display: inline-block;
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    font-size: 15px;
+}
+
+ul.nav_left {
+    padding-left: 0;
+    margin-bottom: 0px;
+   
+}
+
+#period {
+    border: solid black 0.5px;
+    margin-bottom: 0px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 20px;
+    
+}
+
+td {
+    border: solid black 1px;
+    width: 200px;
+    height: 100px;
+    vertical-align: top;
+}
+
+#table_head {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+#month {
+    text-align: center;
+    font-weight: bold;
+    height: 50px;
+    vertical-align: middle;
+    
+}
+
+.opaca {
+    color: rgba(0, 0, 0, 0.534);
+}
+
+.dias h2 {
+   color: black;
+   font-size: 18px;
+   margin-bottom: 0px;
+
+}
+
+.dias ul{
+    margin: 0px;
+}
